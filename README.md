@@ -37,7 +37,7 @@
 ### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,ejs" />
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,ejs" />
 </p>
 
 ### 🗄️ Databases
@@ -98,4 +98,3 @@ Sliding Window      █████████████████
 Stack & Queue       ████████████████
 Trees               ██████████████
 STL                 █████████████████
-Dynamic Programming ███████
