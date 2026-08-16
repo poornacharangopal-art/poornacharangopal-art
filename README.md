@@ -98,3 +98,4 @@ Sliding Window      █████████████████
 Stack & Queue       ████████████████
 Trees               ██████████████
 STL                 █████████████████
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=poornacharangopal-art&show_icons=true)
