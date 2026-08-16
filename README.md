@@ -99,8 +99,8 @@ Stack & Queue       ████████████████
 Trees               ██████████████
 STL                 █████████████████
 ```
-<h2>📊 GitHub Statistics</h2>
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=poornacharangopal-art&show_icons=true&rank_icon=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=poornacharangopal-art" />
 </p>
